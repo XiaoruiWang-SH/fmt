@@ -21,3 +21,7 @@ build/
 cmake_install.cmake
 fmt-*.cmake
 fmt.pc
+coverage_html
+support
+
+
