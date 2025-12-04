@@ -65,8 +65,9 @@ add_fmt_test(compile-test)
 add_fmt_test(printf-test)
 add_fmt_test(ranges-test ranges-odr-test.cc)
 add_fmt_test(no-builtin-types-test HEADER_ONLY)
-
-
+add_fmt_test(generatedIntegrationTest001)
+add_fmt_test(generatedIntegrationTest002)
+add_fmt_test(generatedIntegrationTest003)
 
 
 add_fmt_test(scan-test HEADER_ONLY)
