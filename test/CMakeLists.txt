@@ -68,6 +68,13 @@ add_fmt_test(no-builtin-types-test HEADER_ONLY)
 add_fmt_test(generatedIntegrationTest001)
 add_fmt_test(generatedIntegrationTest002)
 add_fmt_test(generatedIntegrationTest003)
+add_fmt_test(generatedIntegrationTest004)
+add_fmt_test(generatedIntegrationTest005)
+add_fmt_test(generatedIntegrationTest006)
+add_fmt_test(generatedIntegrationTest007)
+add_fmt_test(generatedIntegrationTest008)
+add_fmt_test(generatedIntegrationTest009)
+add_fmt_test(generatedIntegrationTest010)
 
 
 add_fmt_test(scan-test HEADER_ONLY)
